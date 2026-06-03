@@ -3,6 +3,8 @@
 This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
 
 Live site: [https://prince005.vercel.app/]
+<img width="1190" height="880" alt="pic005" src="https://github.com/user-attachments/assets/bc78e806-75b1-4408-b8cd-5b5261a0c486" />
+
 
 
 
